@@ -16,9 +16,9 @@ namespace ToDoList
         string select;
         public void Start()
         {
-            TeamMember member1 = new TeamMember() { Id = 1, Fullname = "Ahmet Köse" };
-            TeamMember member2 = new TeamMember() { Id = 2, Fullname = "Osman Bayar" };
-            TeamMember member3 = new TeamMember() { Id = 3, Fullname = "Aslı Kırbaş" };
+            TeamMember member1 = new TeamMember() { Id = 1, Fullname = "Yusuf Yılmaz" };
+            TeamMember member2 = new TeamMember() { Id = 2, Fullname = "Yasir Yılmaz" };
+            TeamMember member3 = new TeamMember() { Id = 3, Fullname = "Nurullah Acet" };
 
             team.Add(member1);
             team.Add(member2);
